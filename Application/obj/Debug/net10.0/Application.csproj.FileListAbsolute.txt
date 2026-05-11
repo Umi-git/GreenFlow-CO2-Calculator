@@ -1,0 +1,16 @@
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/bin/Debug/net10.0/Application.deps.json
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/bin/Debug/net10.0/Application.dll
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/bin/Debug/net10.0/Application.pdb
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/bin/Debug/net10.0/Domain.dll
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/bin/Debug/net10.0/Domain.pdb
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.csproj.AssemblyReference.cache
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.AssemblyInfoInputs.cache
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.AssemblyInfo.cs
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.csproj.CoreCompileInputs.cache
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.sourcelink.json
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Applicat.44B5EDA2.Up2Date
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.dll
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/refint/Application.dll
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/Application.pdb
+/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/Debug/net10.0/ref/Application.dll
