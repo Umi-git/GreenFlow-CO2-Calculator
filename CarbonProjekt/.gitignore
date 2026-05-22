@@ -1,0 +1,2 @@
+echo "*.db" >> .gitignore
+echo "*.db-journal" >> .gitignore
