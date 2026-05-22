@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXDto8BLJH4=",
+  "success": true,
+  "projectFilePath": "D:\\cSharp\\CarbonImpact2\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asare\\.nuget\\packages\\fluentassertions\\8.9.0\\fluentassertions.8.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

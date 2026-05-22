@@ -1,0 +1,13 @@
+D:\cSharp\CarbonImpact2\Domain\bin\Debug\net10.0\Domain.deps.json
+D:\cSharp\CarbonImpact2\Domain\bin\Debug\net10.0\Domain.dll
+D:\cSharp\CarbonImpact2\Domain\bin\Debug\net10.0\Domain.pdb
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.csproj.AssemblyReference.cache
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.AssemblyInfoInputs.cache
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.AssemblyInfo.cs
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.csproj.CoreCompileInputs.cache
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.sourcelink.json
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.dll
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\refint\Domain.dll
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\Domain.pdb
+D:\cSharp\CarbonImpact2\Domain\obj\Debug\net10.0\ref\Domain.dll
