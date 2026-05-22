@@ -52,6 +52,7 @@ Die CO₂-Äquivalente werden mit folgenden Faktoren berechnet:
 ```bash
 cd CarbonImpact2
 dotnet restore
+cd API
 dotnet watch run
 dotnet ef migrations add InitialCreate -p Persistence -s API
 dotnet ef database update -p Persistence -s API
