@@ -53,6 +53,10 @@ Die CO₂-Äquivalente werden mit folgenden Faktoren berechnet:
 cd CarbonImpact2
 dotnet restore
 dotnet run oder dotnet watch run
+dotnet ef migrations add InitialCreate --p Persistence --s API
+dotnet ef database update --p Persistence --s API
+
+
 ```
 *Die API ist standardmäßig unter `http://localhost:5003/api/CarbonReport` dokumentiert.*
 
