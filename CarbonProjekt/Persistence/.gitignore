@@ -1,7 +1,0 @@
-# SQLite Datenbanken ignorieren
-*.db
-*.db-shm
-*.db-wal
-
-# Spezifisch für den Pfad (optional, falls *.db zu grob ist)
-API/carbonreport.db
