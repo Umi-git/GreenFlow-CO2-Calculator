@@ -473,6 +473,13 @@ function GeneratePage({ user, setPage, addToast, onGenerated }) {
               <option value="ForestConservation">Forest Conservation</option>
               <option value="MethaneReduction">Methane Reduction</option>
               <option value="OceanCarbon">Ocean Carbon</option>
+              <option value="SoilCarbon">Soil Carbon</option>
+              <option value="BiodiversityProtection">Biodiversity Protection</option>
+              <option value="CleanCookstoves">Clean Cookstoves</option>
+              <option value="DirectAirCapture">Direct Air Capture</option>
+              <option value="WasteToEnergy">Waste to Energy</option>
+              <option value="SustainableAgriculture">Sustainable Agriculture</option>
+              <option value="WaterConservation">Water Conservation</option>
             </select>
           </div>
           <div className="field"><label>CO₂ Amount (tonnes) *</label><input type="number" placeholder="e.g. 12.4" value={form.co2Amount} onChange={upd("co2Amount")} /></div>
