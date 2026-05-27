@@ -45,19 +45,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/adilfares/.nuget/packages/": {}
+    "/Users/umi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
-      "packagesPath": "/Users/adilfares/.nuget/packages/",
-      "outputPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/obj/",
+      "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
+      "packagesPath": "/Users/umi/.nuget/packages/",
+      "outputPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/adilfares/.nuget/NuGet/NuGet.Config"
+        "/Users/umi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -69,8 +69,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj": {
-              "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj"
+            "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj": {
+              "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj"
             }
           }
         }

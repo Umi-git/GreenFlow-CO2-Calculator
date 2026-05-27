@@ -1,0 +1,15 @@
+/* Reset default browser styles for a clean slate */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; /* Your App.css will override this with specific fonts */
+  
+  /* Set a neutral background that your components will draw over */
+  background-color: #FFFFFF; 
+}
+
+/* Ensure the root container for your React app can fill the space */
+#root {
+  width: 100%;
+  min-height: 100vh;
+}

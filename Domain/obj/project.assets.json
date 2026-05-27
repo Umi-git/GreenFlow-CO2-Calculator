@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "/Users/adilfares/.nuget/packages/": {}
+    "/Users/umi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
-      "packagesPath": "/Users/adilfares/.nuget/packages/",
-      "outputPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/obj/",
+      "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
+      "packagesPath": "/Users/umi/.nuget/packages/",
+      "outputPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/adilfares/.nuget/NuGet/NuGet.Config"
+        "/Users/umi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"

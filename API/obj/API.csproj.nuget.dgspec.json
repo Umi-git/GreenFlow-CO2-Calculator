@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/API/API.csproj": {}
+    "/Users/umi/Desktop/GreenFlow-CO2-Calculator/API/API.csproj": {}
   },
   "projects": {
-    "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/API/API.csproj": {
+    "/Users/umi/Desktop/GreenFlow-CO2-Calculator/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/API/API.csproj",
+        "projectUniqueName": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/API/API.csproj",
-        "packagesPath": "/Users/adilfares/.nuget/packages/",
-        "outputPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/API/obj/",
+        "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/API/API.csproj",
+        "packagesPath": "/Users/umi/.nuget/packages/",
+        "outputPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/adilfares/.nuget/NuGet/NuGet.Config"
+          "/Users/umi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -26,11 +26,11 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj": {
-                "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj"
+              "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj": {
+                "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj"
               },
-              "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj": {
-                "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj"
+              "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj"
               }
             }
           }
@@ -51,9 +51,21 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[10.0.8, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.4, )"
+            },
+            "QuestPDF": {
+              "target": "Package",
+              "version": "[2026.5.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.1.7, )"
             }
           },
           "imports": [
@@ -493,17 +505,17 @@
         }
       }
     },
-    "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj": {
+    "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj",
+        "projectUniqueName": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj",
-        "packagesPath": "/Users/adilfares/.nuget/packages/",
-        "outputPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/obj/",
+        "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj",
+        "packagesPath": "/Users/umi/.nuget/packages/",
+        "outputPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/adilfares/.nuget/NuGet/NuGet.Config"
+          "/Users/umi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -515,8 +527,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/Domain.csproj": {
-                "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/Domain.csproj"
+              "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/Domain.csproj": {
+                "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/Domain.csproj"
               }
             }
           }
@@ -830,17 +842,17 @@
         }
       }
     },
-    "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/Domain.csproj": {
+    "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
-        "packagesPath": "/Users/adilfares/.nuget/packages/",
-        "outputPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Domain/obj/",
+        "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/Domain.csproj",
+        "packagesPath": "/Users/umi/.nuget/packages/",
+        "outputPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/adilfares/.nuget/NuGet/NuGet.Config"
+          "/Users/umi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -1163,17 +1175,17 @@
         }
       }
     },
-    "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj": {
+    "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
-        "packagesPath": "/Users/adilfares/.nuget/packages/",
-        "outputPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Persistence/obj/",
+        "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/umi/.nuget/packages/",
+        "outputPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/adilfares/.nuget/NuGet/NuGet.Config"
+          "/Users/umi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -1185,8 +1197,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj": {
-                "projectPath": "/Users/adilfares/Documents/CSharp/GreenFlow-CO2-Calculator/Application/Application.csproj"
+              "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj": {
+                "projectPath": "/Users/umi/Desktop/GreenFlow-CO2-Calculator/Application/Application.csproj"
               }
             }
           }
